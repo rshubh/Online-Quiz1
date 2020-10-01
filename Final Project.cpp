@@ -125,7 +125,7 @@ switch(cho)
 case 1:
 	system("cls");
 	puts("Welcome to the Section of Science and Technology");
-	printf("--->>>>>>Welcome to warmup round------<<<<<<<<<");
+	cprintf("--->>>>>>Welcome to warmup round------<<<<<<<<<");
 	Sleep(2000);
 		system("cls");
 	system("color 47");
