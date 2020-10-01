@@ -1,7 +1,6 @@
 
                              // Project Source code //
 
-#include<stdio.h>
 #include<stdlib.h>
 #include<conio.h>
 #include<time.h>
@@ -70,7 +69,7 @@ printf("\n\n\t\t     ->Enter 'A' for about                    \n\n\t");
 printf("\n\t\t       ->Enter 'S' to start game              \n\n\t");
 printf("\n\t\t       ->Enter 'V' to view high score        \n\n\t");
 printf("\n\t\t       ->Enter 'H' for help                 \n\n\t");
-printf("\n\t\t       ->Press Q to quit             ");
+printf("\n\t\t       ->Press 'Q' to quit             ");
 //goto xy(20,12)
 //printf("%c",&t);
 gotoxy(90,20);
